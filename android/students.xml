@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+	<entry>
+		<name>Abello</name>
+		<age>20</age>
+		<new>yes</new>
+		<website>http://abeshte.github.com/</website>
+	</entry>
+	<entry>
+	                <name>Otty lazroTeps</name>
+	                <age>19</age>
+	                <new>yes</new>
+	                <website>http://abeshte.github.com/</website>
+	</entry>
+
+</students>
