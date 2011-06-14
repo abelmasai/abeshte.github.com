@@ -7,10 +7,24 @@
 		<website>http://abeshte.github.com/</website>
 	</entry>
 	<entry>
-	                <name>Otty lazroTeps</name>
+	                <name>Otty</name>
 	                <age>19</age>
 	                <new>yes</new>
-	                <website>http://abeshte.github.com/</website>
+	                <website>http://jkuattechexpo.com</website>
 	</entry>
+	<entry>
+	              <name>Ken</name>
+	              <age>21</age>
+                      <new>yes</new>
+	              <website>http://abeshte.github.com/</website>
+	</entry>
+	<entry>
+	             <name>Njui</name>
+	             <age>19</age>
+	             <new>yes</new>
+	             <website>http://www.jkuat.ac.ke/</website>
+	</entry>
+
+
 
 </students>
